@@ -16,4 +16,3 @@ print(fruit)
 print(vegetable)
 
 print(lorem)
-
